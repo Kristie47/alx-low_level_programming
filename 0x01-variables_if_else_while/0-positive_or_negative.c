@@ -8,9 +8,8 @@
 #include <stdio.h>
 
 /**
- * main - prints a random numberand states whether it is positive, negative, or zero
- *
- * Return
+ * main - entry point
+ * Return: 0
  */
 int main(void)
 {
@@ -24,6 +23,5 @@ int main(void)
 		printf("%d is negative\n", n);
 	else
 		printf("%d is zero\n", n);
-
 	return (0);
 }
