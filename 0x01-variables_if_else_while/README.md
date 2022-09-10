@@ -1,1 +1,1 @@
-program that prints all possible combo
+program that prints all possible different combinations of two digits
