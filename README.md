@@ -1,1 +1,1 @@
-alx low level programming betty style
+function that concatenates two strings
