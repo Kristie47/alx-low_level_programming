@@ -1,6 +1,11 @@
 #ifndef MAIN_H_INCLUDED
 #define MAIN_H_INCLUDED
-
+#include <stdio.h>
+/**
+ * void prototypes()
+ * int prototypes()
+ * char prototypes()
+ */
 int _putchar(char);
 void print_alphabet(void);
 void print_alphabet_x10(void);
@@ -16,4 +21,4 @@ void print_to_98(int n);
 void print_times_table(int n);
 void num(int r, int n);
 
-#endif
+#endif /*MAIN_H*/
