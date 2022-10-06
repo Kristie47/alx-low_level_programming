@@ -1,1 +1,1 @@
-function that reallocates a memory block using malloc and free
+program that multiplies two positive numbers.
