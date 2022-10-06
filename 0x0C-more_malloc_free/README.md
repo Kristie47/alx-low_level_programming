@@ -1,1 +1,1 @@
-function that allocates memory for an array, using malloc
+function that creates an array of integers
