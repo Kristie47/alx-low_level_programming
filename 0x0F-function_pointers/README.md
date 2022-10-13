@@ -1,1 +1,1 @@
-function that searches for an integer.
+program that performs simple operations
