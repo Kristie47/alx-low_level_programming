@@ -1,1 +1,1 @@
-function that frees a list_t list
+function that prints
