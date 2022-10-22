@@ -1,1 +1,1 @@
-function that prints half of a string, followed by a new line
+function that prints an array
