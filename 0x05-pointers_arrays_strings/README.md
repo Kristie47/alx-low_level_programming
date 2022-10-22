@@ -1,1 +1,1 @@
- function that copies a string
+converts string to integer
