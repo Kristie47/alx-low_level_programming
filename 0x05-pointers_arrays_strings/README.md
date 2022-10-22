@@ -1,1 +1,1 @@
-function that prints an array
+ function that copies a string
