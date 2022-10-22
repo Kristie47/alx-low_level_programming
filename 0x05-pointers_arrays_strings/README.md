@@ -1,1 +1,1 @@
-converts string to integer
+program that generates password
