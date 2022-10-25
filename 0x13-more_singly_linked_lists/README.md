@@ -1,1 +1,1 @@
-function that finds the loop in a linked list
+function that inserts a new node at a given position
