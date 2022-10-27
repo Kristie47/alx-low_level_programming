@@ -1,1 +1,1 @@
-get bit
+set bit
