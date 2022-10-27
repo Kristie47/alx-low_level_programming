@@ -1,1 +1,1 @@
-function that checks the endianness
+password for this program
