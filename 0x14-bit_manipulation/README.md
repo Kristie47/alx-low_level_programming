@@ -1,1 +1,1 @@
-password for this program
+prints binary
