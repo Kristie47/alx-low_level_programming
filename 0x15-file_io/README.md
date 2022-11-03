@@ -1,1 +1,1 @@
-function that creates a file.
+program that copies the content of a file to another file.
