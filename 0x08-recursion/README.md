@@ -1,1 +1,1 @@
-function that returns the natural square root of a number
+prime number 6
