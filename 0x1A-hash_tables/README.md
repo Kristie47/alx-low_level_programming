@@ -1,1 +1,1 @@
-hash table set
+get hash table
