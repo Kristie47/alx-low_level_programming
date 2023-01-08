@@ -1,1 +1,1 @@
-create hash table
+djb2
